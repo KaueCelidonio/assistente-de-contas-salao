@@ -1,0 +1,5 @@
+# Configuração local do clasp (ID do projeto no Google)
+.clasp.json
+# Tem o link da planilha de teste
+IMPLANTACAO_CLIENTE.md
+__pycache__/

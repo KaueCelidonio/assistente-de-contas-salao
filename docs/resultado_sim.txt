@@ -1,0 +1,5 @@
+Chave errada ignorada: true
+Duplicado ignorado: true
+### alertas diários enviados: []
+ERROS NO LOG: nenhum
+ERROS NO LOG: nenhum

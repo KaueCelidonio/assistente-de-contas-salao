@@ -18,12 +18,15 @@ Não precisa de servidor.
 | `src/Parser.gs` | Interpreta texto livre, classifica categoria, decide Salão/Pessoal, faz o OCR |
 | `src/Sheets.gs` | Lê e grava na planilha, contas fixas, manutenções, Log |
 | `src/Alertas.gs` | Alerta diário, resumos, aviso de gasto acima da média |
-| `src/Setup.gs` | `setup()`, Painel, `setWebhook()`, `deleteWebhook()`, `testarOCR()`, `testarParser()` |
+| `src/Setup.gs` | `setup()`, menu de instalação na planilha, Painel, `setWebhook()`, `deleteWebhook()`, `testarOCR()`, `testarParser()` |
+| `src/Instalacao.gs` | Endereço do Web App usado pelo menu de instalação |
 | `src/Util.gs` | Constantes e funções de data e dinheiro |
 | `src/Testes.gs` | `testarTodos()`: testes automáticos do parser |
 | `src/appsscript.json` | Manifesto: fuso horário, Drive API, Web App |
-| `MANUAL_DO_DONO.md` | Guia de 1 página para o dono do salão |
 | `CASOS_DE_TESTE.md` | Casos de teste com o resultado esperado |
+| `MANUAL_DO_DONO.md` | Guia de 1 página para o dono do salão |
+| `Manual_de_Uso_Assistente_de_Contas.pdf` | Manual de uso completo, entregue ao cliente |
+| `docs/Documentacao_do_Projeto.pdf` | Documentação do projeto: repositório, código, testes e prints do robô funcionando |
 
 ---
 

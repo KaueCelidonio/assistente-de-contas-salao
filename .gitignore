@@ -3,3 +3,7 @@
 # Tem o link da planilha de teste
 IMPLANTACAO_CLIENTE.md
 __pycache__/
+# Arquivos de trabalho usados só para gerar os PDFs
+ferramentas/
+docs/prints/
+docs/resultado_*.txt
